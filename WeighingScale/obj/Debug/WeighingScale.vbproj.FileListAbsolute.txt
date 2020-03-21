@@ -1,0 +1,16 @@
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\bin\Debug\WeighingScale.exe.config
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\bin\Debug\WeighingScale.exe
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\bin\Debug\WeighingScale.pdb
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\bin\Debug\WeighingScale.xml
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\obj\Debug\WeighingScale.vbprojAssemblyReference.cache
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\obj\Debug\WeighingScale.Form1.resources
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\obj\Debug\WeighingScale.Resources.resources
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\obj\Debug\WeighingScale.vbproj.GenerateResource.cache
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\obj\Debug\WeighingScale.vbproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\obj\Debug\WeighingScale.exe
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\obj\Debug\WeighingScale.xml
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\obj\Debug\WeighingScale.pdb
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\bin\Debug\WeighingScale.exe.manifest
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\bin\Debug\WeighingScale.application
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\obj\Debug\WeighingScale.exe.manifest
+C:\Users\Max\source\repos\WeighingScale\WeighingScale\obj\Debug\WeighingScale.application
